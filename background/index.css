@@ -1,0 +1,15 @@
+.first-para{
+    background-image: url('./image//food_1.png');
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: justify;
+
+
+}
+
+.second-para{
+    background-color: brown;
+
+}
