@@ -1,0 +1,31 @@
+a{
+    text-decoration: none;
+    background-color:chartreuse;
+    padding: 10px 12px;
+    border-radius: 5px;
+    display: inline-block;
+    margin: 10px;
+    
+}
+a:link{
+    color: tomato;
+
+
+}
+a:visited{
+    color: white;
+    background-color: black;
+
+
+}
+a:hover{
+    background-color: blue;
+    color: white;
+
+
+}
+a:active{
+    color: red;
+    background-color: green;
+
+}

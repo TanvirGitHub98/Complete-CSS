@@ -1,0 +1,13 @@
+.test{
+    border: 1px solid black;
+    width: 200px;
+    margin: auto;
+    word-spacing: 10px;
+    line-height: 50px;
+    word-wrap: break-word;
+    /* white-space: pre; */
+    text-shadow: 5px 10px 5px violet;
+    writing-mode: vertical-lr;
+
+
+}

@@ -1,0 +1,5 @@
+TO design a link we need to follow 4 step:
+1. a:link
+2. a:visited
+3. a:hover
+4. a:active

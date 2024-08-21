@@ -1,0 +1,21 @@
+There are 2 types of unit in css
+1. Absolute- do not depens on other
+2. Relative- Depends on other
+
+
+--------Absolute------
+1. cm-(icm=37.7px)
+2. mm-(mm=3.7px)
+3. in-(1inch=96px)
+4. px
+5. pt-(1inch=72pt)
+6. pc-(1pc=12pt)
+
+--------Relative------
+1. em- em mlutiplies his parent
+2. rem- just like em(html tag...ex:<html></html>)
+3. vh- 100vh
+4. vw -100vw 
+5. % -relative his parent
+
+
