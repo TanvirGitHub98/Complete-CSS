@@ -1,0 +1,9 @@
+ ai concept ta computer graphics er transform er concept
+ 
+ transform:
+ 1. translate(50px,0px)(1st value left to r8, second value ta top to bottom a kaj kore)
+ 2. scale(2)(ata ager width-height er double korbe)
+ 3. scaleX(2)
+ 4. scaleY(2)
+ 5. rotate(30deg)
+ 6. skew(45deg)(ata holo graphics er shearing that means aktu baka kore felbe shape ta k)

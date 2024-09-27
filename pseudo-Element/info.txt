@@ -1,0 +1,31 @@
+Types of PseduElement:
+1. :: after
+2. :: before
+3. :: first-letter
+4. :: first-line
+5. :: selection
+6. :: placeholder
+
+Types of PseduClass:
+Link:
+ 1. :link
+ 2. :hover
+ 3. :visited
+ 4. :active
+ 5. :target
+Common:
+ 1. :first-child
+ 2. :last-child
+ 3. :nth-child()
+ 4. :nth-last-child()
+ 5. :nth-last-of-type()
+ 6. :only-child
+ 7. :empty
+
+ Form
+  1. :focus
+  2. :checked
+  3. :disable
+  4. :enable
+  5. :required
+  6. :optional

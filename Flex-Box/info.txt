@@ -1,0 +1,45 @@
+1. suppose amar kache akta circle ache r ami akta text k circle er
+    akdom center a dekhate. tahole:
+    display:flex;
+    justify-content: center;(ata x-axis borabor kaj kore)
+    align-items: center;(ata y-axis borabor kaj kore)
+    use korte hbe
+
+2. child div gula k akta parent div a rakhte hbe.
+3. .parent{
+    display:flex;
+    justify-content: center(child gula center a chole ashbe)(x-axix)
+    justify-content: flex-end(child gula right a chole ashbe)(x-axix)
+    justify-content: flex-start(child gula left a chole ashbe)(x-axix)
+    justify-content: space-betweeen(1st child  left 2nd child center and 3rd div right a chole ashbe)(x-axix)
+    justify-content: space-around(1st child  left 2nd child center and 3rd div right a chole ashbe but left right a space charbe)(x-axix)
+    justify-content: space-evenly(1st child  left 2nd child center and 3rd div right a chole ashbe but left right a same space charbe)(x-axix)
+    align-items: center(3ta div akdom majkhane thakbe(y-axis a kaj kore))
+    align-items: flex-end(3ta div akdom bottom a thakbe(y-axis))
+    align-items: flex-start(3ta div akdom top a thakbe(y-axis))
+    align-items:stretch(ata kaj korbe jkhn child er height thakbena.thn parent er height er soman height niye nibe)
+
+
+}
+.child2{
+    flex-grow:1;(2number child ta x-axis a boro hoye jabe)
+}
+.child1{
+    order:2;(tahole 1st div ta 2number position a chole jabe)
+}
+
+
+--------------------------------
+.parent{
+    display:flex;
+    flex-direction: row;(left theke div1,div2,div3 dekhabe)
+    flex-direction:row-reverse(right a chole jabe and div 3,div2,div1 aivabe dekhabe)
+    flex-direction:column(3 div e akta column  a chole ashbe and full screen niye nibe)
+    flex-direction:column-reverse(reverse kore dive)
+    flex-wrap:wrap or nowrap(suppose child er width 200px kore . no wrap dile jodi 3ta div er jaygay 10 ta d o thakbe
+              tobe tara width ta k k adjust kore pashapashi bshe jabe but jdi wrap dei tahole width thik rekhe j koyta ak line a boshte parbe tara akline a bshbe baki gula
+              next line a chole jabe)
+
+    flex-flow:row wrap(row the wrap kore dibe)
+    
+}

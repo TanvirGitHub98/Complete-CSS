@@ -1,0 +1,6 @@
+CSS Function List
+1. rgba()
+2. url()
+3. linear-gradient
+4. calc(100%-200px){jodi amra kono akta div er width 100% set kori r screen ta k choto kori, tahole screen choto hoar 7a 7a oi space ta o kome jabe. kintu amnta jdi na chaie tahole cal() ta use korbo. for example upore 100% theke 200px k minus kore disi. akhn screen jotoi choto korina kn always 200px k minus kore same poriman space e rakhbe.}
+5. var(--initialColor){globally color ba background change korte use kora hoy}

@@ -1,5 +1,5 @@
 .paragraph{
-    background-color: tomato;
+
     width: 500px;
     height: 500px;
     text-align: justify;
@@ -7,4 +7,13 @@
 
 
 
+}
+.paragraph{
+    border: 1px solid black;
+    height: 100vh;
+
+}
+.child{
+    border: 1px solid black;
+    height: 50vh;
 }

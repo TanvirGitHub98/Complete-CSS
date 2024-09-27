@@ -1,0 +1,52 @@
+1. Animation create korte gele amader akta method use korte hoy jetar nam
+   @keyframes animationName{
+
+   }
+   for example:
+   @keyframes forLogo{
+    from{
+        background-color:brown;
+        width:350px;
+    }
+    to{
+        background-color:green;
+        width:300px;
+    }
+   }
+
+   ato tuku porjonto animation create korsi. akhn apply korte hbe
+
+   .box{
+    animation-name:forLogo;
+    animation-duration:2s;
+    animation-iteration-count: 4 or infinite;
+    animation-direction: alternate;(ata use korle slow vabe left to right move korbe)
+    position:relative;
+    animation-delay:2s;
+    animation-timming-function: ease or ease-in or ease-in-out etc;
+   }
+
+   *** amra chaile duation ta k koyekta vhage vhag korte pari:
+
+      @keyframes forLogo{
+    0%{
+        background-color:brown;
+        width:350px;
+    }
+    25%{
+        background-color:red;
+        width:340px;
+    }
+    50%{
+        background-color:yellow;
+        width:330px;
+    }
+    75%{
+        background-color:brown;
+        width:320px;
+    }
+    100%{
+        background-color:green;
+        width:300px;
+    }
+   }

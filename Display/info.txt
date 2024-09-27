@@ -1,0 +1,6 @@
+Types Of Display
+
+1. block(h1,div,p,ul,form)(you can change the height width)
+2. inline(span,a,button,textarea,cite)(you can not change the height width)
+3. inline-block(you can convert inline into block which will help to change the height width)
+4. none

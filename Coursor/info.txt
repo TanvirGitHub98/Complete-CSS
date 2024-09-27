@@ -1,0 +1,15 @@
+All cursor value
+1. all-scroll
+2. cell
+3. col-resize
+4. e-resize
+5. grab
+6. help
+7. not-allowed
+8. pointer
+9. progress
+10. wait
+11. zoom-in
+12. zoom-out
+13. alias
+14. text

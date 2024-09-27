@@ -1,0 +1,29 @@
+Types Of Position:
+1. static
+2. relative(jayga chere dey but jayga ta k dhore rakhe. onno kono element boshte parena)
+3. absolute(jayga chere dey and jayga ta k dhore rakhena. onno element eshe boshte pare)
+4. fixed(jayga chere dey and jayga ta k dhore rakhena.)
+5. sticky
+
+*** suppose
+<div class='parent'>
+    <div class='child1'>div1</div>
+    <div class='child2'>div2</div>
+    <div class='child3'>div3</div>
+</div>
+
+.parent{
+
+}
+.child1{
+    position: absolute;
+    top:0;
+    left:0;
+
+}
+tahole boxx ta akdom parent div er baire chole jabe.
+jodi parent div er moddhe rakhte hoy, tbe 
+.parent{
+    position:relative;
+}
+ata kore ditee hbe

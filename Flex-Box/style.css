@@ -1,0 +1,25 @@
+.parent{
+    background-color: blueviolet;
+    border: 2px solid black;
+    display: flex;
+    justify-content: flex-start;
+    width: 600px;
+    height: 300px;
+    align-items: center;
+    flex-wrap: wrap;
+    overflow: auto;
+    flex-direction: row;
+    
+
+}
+.child{
+    background-color: blanchedalmond;
+    border: 1px solid black;
+    width: 100px;
+    height: 200px;
+    margin: 5px;
+
+}
+.child1{
+    
+}

@@ -1,0 +1,9 @@
+1. column-count:4(lekha gula k 4ta column a vhag kore nibe)
+2. column-gap:20px
+3. column-rule-style:solid(column er majkhane rule diye dibe)
+4. column-rule-width:1px(rule er width fixed korte pari)
+5. column-rule-color:red
+6. column-rule: 3px solid black(shorthand)
+7. column-span:all(sob gula column a header jn cover kore)
+8. column-width:200px(choto screen holee column komte thakbe)
+9. 
